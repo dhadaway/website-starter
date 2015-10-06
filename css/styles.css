@@ -1,3 +1,5 @@
 /*my awesome styles*/
 
-
+body {
+background: url(../img/swirl_pattern.png);
+}
